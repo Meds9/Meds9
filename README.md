@@ -41,7 +41,7 @@ I am **open to private-sector partnerships** and collaborations that align with 
 - Supporting non-profit, academic, or responsible industry efforts in AI safety and behavioral resilience.
 - Joint research to strengthen societal protections without enabling offensive applications.
 
-If your organization shares these values and would like to discuss potential collaboration under strict safety and ethical guardrails, please reach out via https://x.com/EsothelLabs.
+If your organization shares these values and would like to discuss potential collaboration under strict safety and ethical guardrails, please reach out via contact@esothel.com.
 
 Aligned with commitment to ethical integrity and preventing harm in all forms.
 
