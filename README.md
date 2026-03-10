@@ -1,48 +1,51 @@
-# MIND Framework
-
+# MIND Framework  
 **Modeling Influence · Neutralizing Deception**
 
 Hi there 👋
 
-I build tools that help people think clearly.
+I build defensive tools to help people think more clearly in adversarial information environments.
 
-## Overview
+## Project Overview
 
-HPL (Human Programming Language) formalized influence operations as structured, analyzable pseudocode — triggers, state transitions, behavioral loops, and targeting logic. This made the mechanics of persuasion explicit and machine-readable.
+**M.I.N.D.** (Modeling Influence, Neutralizing Deception) is a private-sector defensive research prototype developed by [Esothel Labs](https://esothel.com).
 
-MIND builds directly on that insight: if influence can be modeled as code, defense can be engineered as code too.
+It formalizes influence operations and behavioral manipulation as structured, analyzable constructs — building directly on the **Human Programming Language (HPL)** insight that persuasion mechanics can be expressed as explicit, machine-readable logic (triggers, state transitions, behavioral loops, targeting rules).
 
-The framework is a defensive research prototype designed exclusively to detect, analyze, and neutralize manipulative content and influence attempts in digital environments.
+MIND turns that same formalism toward defense: engineering layered countermeasures that detect, analyze, and neutralize manipulative content and influence attempts in digital spaces.
 
-## Core Capabilities (Research Prototype)
+→ Live research preview & technical brief: **[mindthedeception.com](https://www.mindthedeception.com)**
 
-- Multi-layered analysis across six defensive wards: source verification, content semantics, behavioral patterns, network propagation, historical context, and cross-referencing.
-- Outputs a **Manipulation Probability Score (MPS)** (0–1) to quantify influence risk indicators.
-- Includes simulation capabilities for controlled study of threat scenarios (8 attack vectors × 6 defense layers).
-- Contains ~100 educational examples pairing threat models with corresponding defensive countermeasures.
+## Core Research Capabilities (Prototype Stage)
 
-## Purpose & Guiding Principles
+- **Six defensive wards** — source authenticity, semantic consistency, behavioral signatures, propagation dynamics, historical grounding, external cross-referencing  
+- Outputs a normalized **Manipulation Probability Score (MPS)** (0–1) quantifying influence risk  
+- Simulation engine for controlled red-teaming (8 primary attack vectors × 6 defense layers)  
+- ~100 curated educational examples matching threat models to countermeasures  
 
-Influence operations are a literacy and resilience problem. While academic and practitioner knowledge exists, interactive, structured tools for studying and countering them remain scarce.
+## Purpose & Core Principles
 
-MIND exists to advance **defensive cognitive security research** — enabling deeper understanding of manipulation dynamics so individuals, organizations, and communities can build informed, independent judgment.
+Influence operations are fundamentally a **literacy + resilience** problem. While scholarly and practitioner knowledge exists, structured, interactive tools for systematically studying and countering them remain rare.
 
-**This is strictly a safety research project.**  
-- It is **not open source** at this time.  
-- It is **not intended for public use, deployment, or distribution**.  
-- All development prioritizes **absolute certainty** that the framework cannot be repurposed for malicious, nefarious, or harmful purposes.  
-- The code and models remain private during this research phase to enforce that constraint.
+MIND exists to advance **defensive cognitive security** — making manipulation dynamics legible so individuals, organizations, and societies can cultivate more independent, evidence-based judgment.
 
-## Collaboration Interest
+**This is strictly a safety & resilience research effort.**  
+- Not open source at this time  
+- Not intended for public deployment, commercial use, or general distribution  
+- Development maintains **absolute priority** on preventing any possible malicious repurposing  
+- Code, models, and detailed internals remain private during this phase to enforce that constraint  
 
-I am **open to private-sector partnerships** and collaborations that align with humanitarian, ethical, and public-good objectives — for example:
+## Collaboration & Contact
 
-- Advancing real-world cognitive defense tools against misinformation, social engineering, or coercive influence.
-- Supporting non-profit, academic, or responsible industry efforts in AI safety and behavioral resilience.
-- Joint research to strengthen societal protections without enabling offensive applications.
+I welcome private, aligned conversations with organizations that share a commitment to humanitarian, ethical, and public-good outcomes — for example:
 
-If your organization shares these values and would like to discuss potential collaboration under strict safety and ethical guardrails, please reach out via contact@esothel.com.
+- Building real-world cognitive defense against misinformation, social engineering, or coercive influence  
+- Supporting responsible AI safety, behavioral resilience, or information-integrity initiatives  
+- Joint academic/non-profit research under strict ethical & safety controls  
 
-Aligned with commitment to ethical integrity and preventing harm in all forms.
+If your work aligns and you’d like to explore potential collaboration under strong guardrails, please reach out:
 
-Thank you for respecting the private, research-only nature of this work.
+📧 **contact@esothel.com**
+
+Aligned with an uncompromising commitment to ethical integrity and preventing harm in all forms.
+
+Thank you for respecting the private, research-only status of this work.
